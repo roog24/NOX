@@ -1,0 +1,6 @@
+{
+  "name": "NOX 웹사이트 (녹스)",
+  "description": "인디 밴드 NOX(녹스)와 노이즈랩의 캐릭터 및 세계관 소개 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
